@@ -1,0 +1,13 @@
+{
+  "cities": [
+    "Bologna",
+    "Venezia"
+  ],
+  "trains": [
+    "Jazz",
+    "Frecciabianca"
+  ],
+  "events": [
+    "FestivalVenezia"
+  ]
+}
